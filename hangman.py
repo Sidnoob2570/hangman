@@ -27,7 +27,7 @@ while (flag == 0):
 
     if "_" not in display:
         flag == 1
-        print("You Win")
+        print("You Win the game")
         break
     
     print(stages[lives])
